@@ -1,6 +1,6 @@
 <a name="custom_anchor_name"></a>
 
-# A HTML based webpage using selectors :clipboard:
+# A HTML & CSS based webpage using selectors :clipboard:
 
 ## Concepts applied (_but not limited too_)
 
